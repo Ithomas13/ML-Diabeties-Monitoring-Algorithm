@@ -6,7 +6,7 @@ It combines **manual or dataset-based data entry** with **machine learning (Line
 
 ---
 
-## 🚀 Features
+## Features
 - **Flexible Data Entry**  
   - Option 1: Enter data manually (day-by-day)  
   - Option 2: Paste a 14-day dataset in a compact format for batch analysis  
@@ -35,7 +35,7 @@ It combines **manual or dataset-based data entry** with **machine learning (Line
 
 ---
 
-## 📊 Example Workflow
+## Example Workflow
 1. Start the program and select **Manual Entry** or **Two-Week Dataset**  
 2. Input daily readings + lifestyle data  
 3. Program calculates a **Blood Sugar Rating** for each day  
@@ -48,7 +48,7 @@ It combines **manual or dataset-based data entry** with **machine learning (Line
 
 ---
 
-## 🛠 Installation
+## Installation
 Clone the repository and install requirements:
 
     git clone https://github.com/your-username/diabetes-blood-sugar-analysis.git
@@ -57,7 +57,7 @@ Clone the repository and install requirements:
 
 ---
 
-## ▶️ Usage
+## Usage
 Run the program:
 
     python main.py
@@ -74,7 +74,7 @@ Example:
 
 ---
 
-## 📸 Sample Outputs
+## Sample Outputs
 
 **Correlation Results**  
 
@@ -91,7 +91,7 @@ Example:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
     diabetes-blood-sugar-analysis/
     │── main.py              # Main program file
@@ -100,7 +100,7 @@ Example:
 
 ---
 
-## 📖 Tech Stack
+## Tech Stack
 - **Python 3.x**  
 - **NumPy, Pandas** → data manipulation  
 - **scikit-learn** → linear regression & evaluation metrics  
@@ -108,7 +108,7 @@ Example:
 
 ---
 
-## 🌍 Why This Matters
+## Why This Matters
 With diabetes on the rise globally, individuals often lack **personalized feedback** on how their lifestyle habits directly impact blood sugar. This project bridges that gap by:  
 - Making data **easy to collect**  
 - Using **machine learning** to find hidden patterns  
@@ -116,7 +116,7 @@ With diabetes on the rise globally, individuals often lack **personalized feedba
 
 ---
 
-## 🙌 Future Improvements
+## Future Improvements
 - Add support for wearable/device data (continuous glucose monitors, smartwatches)  
 - Expand to other ML models for prediction (Random Forest, Neural Nets)  
 - Build a simple GUI or web app for non-technical users  
